@@ -1,0 +1,13 @@
+{{#power-select
+  allowClear=true
+  dropdownClass="repo-select-dropdown"
+  loadingMessage='Retrieving repos...'
+  options=githubRepos
+  onchange=onRepoSelected
+  placeholder='Do not sync with github repo'
+  renderInPlace=true
+  searchEnabled=false
+  selected=selectedRepo
+  as |githubRepo|}}
+  {{githubRepo.name}}
+{{/power-select}}

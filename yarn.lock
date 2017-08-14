@@ -3369,9 +3369,9 @@ ember-normalize@1.0.0:
     ember-cli-babel "^5.1.6"
     normalize.css "~4.1.1"
 
-ember-page-title@tim-evans/ember-page-title:
+ember-page-title@3.2.0:
   version "3.2.0"
-  resolved "https://codeload.github.com/tim-evans/ember-page-title/tar.gz/de21b14425bdf01b262b334e59253aa12276943c"
+  resolved "https://registry.yarnpkg.com/ember-page-title/-/ember-page-title-3.2.0.tgz#642d81b4f1a5388a5a53b3540168fd283be9fba0"
   dependencies:
     ember-cli-babel "^6.0.0"
     ember-cli-head "^0.2.1"
